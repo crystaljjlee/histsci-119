@@ -1,3 +1,5 @@
-# HISTSCI 199VH: Sugar, Spice and Science: Colonialism and Commerce in the Making of a Global History of Science
+# HISTSCI 199VH Class Demonstration 
+## Sugar, Spice and Science: Colonialism and Commerce in the Making of a Global History of Science
 
-Class demonstration
+Instructor: Kit Heintzman 
+Teaching Fellow: Crystal Lee 
