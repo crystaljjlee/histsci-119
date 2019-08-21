@@ -1,8 +1,8 @@
 # Sugar, Spice, and Science: Colonialism and Commerce in the Making of a Global History of Science
 
-Instructor: Kit Heintzman <kheintzman@fas.harvard.edu>
+**Instructor:** Kit Heintzman (<kheintzman@fas.harvard.edu>)
 
-Teaching Fellow: Crystal Lee <crystall@mit.edu> 
+**Teaching Fellow:** Crystal Lee (<crystall@mit.edu>) 
 
 ## Course overview
 
