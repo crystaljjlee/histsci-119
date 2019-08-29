@@ -6,4 +6,4 @@
 
 ## Instructions 
 
-1. Sign up for a GitHub Student Developer Pack [here](https://education.github.com/pack). 
+1. Sign up for a GitHub Student Developer Pack [here](https://education.github.com/pack) using your Harvard email. 
