@@ -72,11 +72,15 @@ From there, you can format the text you write by inserting headers, paragraphs, 
 
 Bulleted lists, for example, can be rendered like this: 
 
-`<ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>`
+`<ul>`
+
+`<li> Coffee </li>` 
+
+`<li> Tea </li>`
+
+`<li> Milk </li> `
+
+`</ul> `
 
 If you copy and paste that code, you will see this on the page: 
 
