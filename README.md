@@ -64,23 +64,21 @@ However, the most important thing is learning how to **embed the StoryMap in the
 
 From there, you can format the text you write by inserting headers, paragraphs, and lists. All text in HTML needs to be tagged with element names that are surrounded by angle brackets, e.g.: 
 
-`<h1> This is a heading. </h1>` 
-
-`<h2> This is a subheading. </h2>`
-
-`<p> This is a paragraph. </p>` 
+```html
+<h1> This is a heading. </h1>
+	<h2> This is a subheading. </h2
+		<p> This is a paragraph. </p>
+```
 
 Bulleted lists, for example, can be rendered like this: 
 
-`<ul>`
-
-`<li> Coffee </li>` 
-
-`<li> Tea </li>`
-
-`<li> Milk </li> `
-
-`</ul> `
+``` html
+<ul>
+	<li>Coffee</li>
+	<li>Tea</li>
+	<li>Milk</li>
+</ul>
+```
 
 If you copy and paste that code, you will see this on the page: 
 
