@@ -16,20 +16,41 @@ Before you get started with making your StoryMaps, please make sure that you hav
 2. You'll also need a **GitHub account.** Instead of signing up on the general site, make sure to get the [Github Student Developer Pack](https://education.github.com/pack) using your Harvard email. This will give you lots great benefits, like more storage space and the ability to have private repositories.
 3. You'll also need to download [**Zoomify Free**](http://www.zoomify.com/free.htm) and [**GitHub Desktop**](https://desktop.github.com/).
 
+### Resources for finding maps 
+
+There are many great online resources for finding high quality maps to use in your project (for our purposes, the bigger and more detailed, the better). Here are a few places to get you started: 
+
+* [David Rumsey Map Collection](https://www.davidrumsey.com/) 
+* [New York Public Library Map Warper](http://maps.nypl.org/warper/)
+* [Boston Public Library's Leventhal Map and Education Center](https://www.leventhalmap.org/)
+* [Library of Congress Map Collection](https://www.loc.gov/maps) 
+* [French National Library](https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop) (use "map" filter in advanced search) 
+
 ### Making the StoryMaps
 
 I've made two videos that introduce you to StoryMap.js – one about the utility more generally, and one that focuses on how to create a StoryMap that uses a historical map.
 
-#### Intro to StoryMap
+#### Intro to StoryMap [CC]
 
 [![Intro to StoryMap video still](https://i.imgur.com/BUvXPFW.png)](https://youtu.be/wZjAc8_VOaY)
 
-#### Intro to Gigapixel
+#### Intro to Gigapixel [CC]
 
 [![Intro to Gigapixel video still](https://i.imgur.com/u8qLDHZ.png)](https://youtu.be/zfhouzPCYBA) 
 
 If you don't want to watch a video, you can find an excellent written tutorial on how to host your tiled images on GitHub [here](https://github.com/NUKnightLab/StoryMapJS/blob/master/GITHUB_HOSTING/GITHUB_HOSTING.md).
 
-#### Forking a repository 
+### Forking the class repository 
 
-!["Watch," "star" and "fork" buttons on GitHub](https://help.github.com/assets/images/help/repository/fork_button.jpg) 
+When you are ready to start making your website to host your StoryMap, navigate to the [HISTSCI 119 repository](https://github.com/crystaljjlee/histsci-119). Once you are there, you'll see three buttons at the top right hand side: you want to **fork** this repository, which means that you're copying all of the files into your own account. 
+
+!["Watch," "star" and "fork" buttons on GitHub](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+
+This repository is filled with skeleton documents that you are free to customize in order to complete your project. The README file is the document you're reading right now. (Don't worry about .DS_Store.) 
+
+For your project, you will be customizing **index.html**, which provides a template for the website you will create. The **css** folder *styles* the text in the index file – by providing guidelines for the font color/size, the way that the page is rendered, etc. – and the **images** folder is used to store all the images that you will use for your website. Right now, it contains a **favicon**, which is the little image that you see on the left part of a tab when you're browsing the internet. You can and should customize any part of the template you like (though it certainly isn't necessary). 
+
+![Screenshot of HISTSCI 119 repository files, which includes an index.html file and CSS folder](<https://i.imgur.com/2ss0cfi.png>)
+
+### Building the website 
+
