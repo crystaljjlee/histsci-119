@@ -6,7 +6,7 @@
 
 ## Instructions 
 
-### Accounts you'll need 
-1. **Google**: You'll need a Google account to use StoryMap.js -- you can use a personal account, or you can use your Harvard  account. 
+### Accounts and applications you'll need 
+1. **Google**: You'll need a Google account to use StoryMap.js -- you can use a personal or Harvard account. 
 2. **Github**: Sign up for a [Github Student Developer Pack](https://education.github.com/pack) using your Harvard email. This will give you lots great benefits, like more storage space and the ability to have private repositories. 
-
+3. You'll also need to download [**Zoomify Free**](http://www.zoomify.com/free.htm) and [**GitHub Desktop**](https://desktop.github.com/). 
