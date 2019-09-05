@@ -54,3 +54,42 @@ For your project, you will be customizing **index.html**, which provides a templ
 
 ### Building the website 
 
+Once you have forked the HISTSCI 119 repo to your own account, you can get started with editing the index.html page! You can do this directly on the GitHub website – all you need to do is click the index file (which will pull up the source code), and click the pencil icon to edit. (If you prefer to have a little more control, you can also edit the page using a text editor like [Atom](https://atom.io/) and push the file onto GitHub.)
+
+![screenshot of GitHub options when you open a file](https://i.imgur.com/9WUG8MT.png)
+
+However, the most important thing is learning how to **embed the StoryMap in the index.html file,** but it is luckily very easy! When you have finished making your map, the "share" menu on StoryMap gives you code that you can copy and paste directly into the index.html page. 
+
+![Image of "share" menu in StoryMaps, which includes code that you can copy and paste into your index.html file](https://i.imgur.com/rAOIjxT.png)
+
+From there, you can format the text you write by inserting headers, paragraphs, and lists. All text in HTML needs to be tagged with element names that are surrounded by angle brackets, e.g.: 
+
+`<h1> This is a heading. </h1>` 
+
+`<h2> This is a subheading. </h2>`
+
+`<p> This is a paragraph. </p>` 
+
+Bulleted lists, for example, can be rendered like this: 
+
+`<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>`
+
+If you copy and paste that code, you will see this on the page: 
+
+# This is a heading. 
+
+## This is a subheading. 
+
+This is a paragraph. 
+
+* Coffee 
+* Tea 
+* Milk 
+
+For additional examples about how to adjust some more components of your website, you can find a wealth of resources at [w3schools.com](https://www.w3schools.com/). 
+
+Happy writing!
