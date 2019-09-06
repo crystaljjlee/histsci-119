@@ -70,6 +70,13 @@ From there, you can format the text you write by inserting headers, paragraphs, 
 		<p> This is a paragraph. </p>
 ```
 
+# This is a heading. 
+
+## This is a subheading. 
+
+This is a paragraph. 
+
+
 Bulleted lists, for example, can be rendered like this: 
 
 ``` html
@@ -82,11 +89,6 @@ Bulleted lists, for example, can be rendered like this:
 
 If you copy and paste that code, you will see this on the page: 
 
-# This is a heading. 
-
-## This is a subheading. 
-
-This is a paragraph. 
 
 * Coffee 
 * Tea 
