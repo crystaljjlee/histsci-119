@@ -6,6 +6,20 @@ If you need **technical help**, you can attend the [Harvard Digital Scholarship 
 
 To discuss the **conceptual components** of your project (especially before you are due to present in class), you can book office hours with the course teaching fellow, Crystal, [here](https://crystallee.youcanbook.me/).
 
+## Table of contents 
+
+* **[Preliminary Instructions](https://github.com/crystaljjlee/histsci-119/#preliminary-instructions)**
+  * [Accounts/applications you'll need](https://github.com/crystaljjlee/histsci-119/#accounts-and-applications-youll-need)
+  * [Map resources](https://github.com/crystaljjlee/histsci-119/#resources-for-finding-maps) 
+* [**Making the StoryMaps**](https://github.com/crystaljjlee/histsci-119/#making-the-storymaps)
+  * [Intro to StoryMap](https://github.com/crystaljjlee/histsci-119/#intro-to-storymap-cc)
+  * [Intro to Gigapixel](https://github.com/crystaljjlee/histsci-119/#intro-to-gigapixel-cc)
+* [**Making your website**](https://github.com/crystaljjlee/histsci-119/#making-your-website)
+  * [Forking the class repository](https://github.com/crystaljjlee/histsci-119/#forking-the-class-repository) 
+  * [Activating GitHub pages](https://github.com/crystaljjlee/histsci-119/#activating-github-pages) 
+  * [Building the website](https://github.com/crystaljjlee/histsci-119/#building-the-website) 
+  * [Formatting your text](https://github.com/crystaljjlee/histsci-119/#formatting-your-text) 
+
 ## Preliminary Instructions
 
 ### Accounts and applications you'll need
@@ -30,13 +44,13 @@ There are many great online resources for finding high quality maps to use in yo
 
 I've made two videos that introduce you to StoryMap.js – one about the utility more generally, and one that focuses on how to create a StoryMap that uses a historical map.
 
-#### Intro to StoryMap [CC]
+###Intro to StoryMap [CC]
 
 You can read more about how StoryMap works and view newspaper articles using the tool [here](https://storymap.knightlab.com/#overview). 
 
 [![Intro to StoryMap video still](https://i.imgur.com/mk9vZ8J.png)](https://youtu.be/wZjAc8_VOaY)
 
-#### Intro to Gigapixel [CC]
+###Intro to Gigapixel [CC]
 
 If you don't want to watch a video, you can use this [excellent written tutorial](https://github.com/NUKnightLab/StoryMapJS/blob/master/GITHUB_HOSTING/GITHUB_HOSTING.md) on how to host your tiled images on GitHub.
 
@@ -73,6 +87,8 @@ Once you have forked the HISTSCI 119 repo to your own account and activated GitH
 However, the most important thing is learning how to **embed the StoryMap in the index.html file,** but it is luckily very easy! When you have finished making your map, the "share" menu on StoryMap gives you code that you can copy and paste directly into the index.html page.
 
 ![Image of "share" menu in StoryMaps, which includes code that you can copy and paste into your index.html file](https://i.imgur.com/rAOIjxT.png)
+
+### Formatting your text 
 
 From there, you can format the text you write by inserting headers, paragraphs, and lists. All text in HTML needs to be tagged with element names that are surrounded by angle brackets, e.g.:
 
