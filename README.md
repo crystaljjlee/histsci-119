@@ -66,8 +66,8 @@ From there, you can format the text you write by inserting headers, paragraphs, 
 
 ```html
 <h1> This is a heading. </h1>
-	<h2> This is a subheading. </h2
-		<p> This is a paragraph. </p>
+<h2> This is a subheading. </h2>
+<p> This is a paragraph. </p>
 ```
 
 # This is a heading. 
