@@ -74,7 +74,7 @@ For this class, you can think of GitHub like file storage similar to Dropbox, wh
 
 Embedding the StoryMaps is actually a little finicky in Wordpress and other CMS, but it works really well in Medium (the Knight Lab has a collaboration with Medium). Unfortunately, Medium has an [extremely](https://www.niemanlab.org/2019/03/the-long-complicated-and-extremely-frustrating-history-of-medium-2012-present/) [poor](http://studyhall.xyz/blog/2018/6/12/mediums-mess-the-rise-and-fall-of-the-site-that-was-supposed-to-save-journalism) [record](https://twitter.com/HalimahMarcus/status/998585170314788864) when it comes to how they pay writers who make content for them, and they retain the rights to share and redistribute whatever you post there. 
 
-So, as an exercise in data ownership, we're going to be learning how to host your own web pages. GitHub is proprietary, so that comes with its own issues, but the skills you'll develop here are easily transferrable and the product will be an easily maintainable piece of work that you can host wherever you choose. 
+So, as an exercise in data ownership, we're going to be learning how to make your own web pages. GitHub is proprietary, so that comes with its own issues, but the skills you'll develop here are easily transferrable! Hopefully, your final product will be something that is easily maintainable that you can host wherever you choose (on GitHub or otherwise). 
 
 ### Forking the class repository
 
