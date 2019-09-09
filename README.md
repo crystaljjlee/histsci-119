@@ -46,6 +46,8 @@ Here are a few places to get you started:
 * [John Carter Brown Library Map Collection](https://jcb.lunaimaging.com/luna/servlet/JCBMAPS~1~1)
 * [Osher Map Library](https://oshermaps.org/browse-maps?r=5d76b9b179c3c)
 
+[<div style="text-align: right">(back to table of contents)](https://github.com/crystaljjlee/histsci-119#table-of-contents)</div> 
+
 ## Making the StoryMaps
 
 I've made two videos that introduce you to StoryMap.js – one about the utility more generally, and one that focuses on how to create a StoryMap that uses a historical map.
