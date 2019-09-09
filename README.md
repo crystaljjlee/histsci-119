@@ -2,9 +2,11 @@
 
 As part of this course, you will be using StoryMap.js to chart the movement of people, things, and ideas across the world. This tool will help you create an interactive map that you can then embed onto your own website, which will be hosted using GitHub Pages. (It is also possible to embed the StoryMap directly onto platforms like Medium. However, as we will discuss in class, we are asking you to learn how to host these projects using HTML, CSS, and GitHub so that you can have better control of your data, and so that it's easily maintainable.)
 
-If you need **technical help**, you can attend the [Harvard Digital Scholarship Support Group (DSSG) office hours](<https://dssg.fas.harvard.edu/event/dssg-office-hours-f19-th/>). If you can't make the office hours, they can assist you remotely or set up a separate appointment. You can also email Jeremy Guillette (jguillette@fas.harvard.edu), the academic technologist for FAS, for additional help (he'll respond quickly during business hours, but won't be available outside of 9–5). He'll definitely help you make the most of StoryMap!
+If you need **technical help**, you can attend the [Harvard Digital Scholarship Support Group (DSSG) office hours](<https://dssg.fas.harvard.edu/event/dssg-office-hours-f19-th/>). If you can't make the office hours, they can assist you remotely or set up a separate appointment. You can also email Jeremy Guillette (jguillette@fas.harvard.edu), the academic technologist for FAS, for additional help (he'll respond quickly during business hours, but won't be available outside of 9–5). He'll definitely help you make the most of StoryMap! 
 
-To discuss the **conceptual components** of your project (especially before you are due to present in class), you can book office hours with me (Crystal) [here](https://crystallee.youcanbook.me/). 
+> Before you meet with them, you may also want to consult the [Mozilla Developers Network web docs](https://developer.mozilla.org/en-US/) (guides to [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) and [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)). Someone else may also have had this question on [Stack Overflow](https://stackoverflow.com/) (a high-quality version of Yahoo Answers that is focused primarily on programming). 
+
+To discuss the **conceptual components** of your project (especially before you are due to present in class), you can book office hours with me (Crystal) [here](https://crystallee.youcanbook.me/). Before our meeting, be sure to send me a copy of your map so I can have a copy printed out when we meet, and so that we can talk through it in more detail! 
 
 ## Table of contents 
 
@@ -46,7 +48,7 @@ Here are a few places to get you started:
 * [John Carter Brown Library Map Collection](https://jcb.lunaimaging.com/luna/servlet/JCBMAPS~1~1)
 * [Osher Map Library](https://oshermaps.org/browse-maps?r=5d76b9b179c3c)
 
-[<div style="text-align: right">(back to table of contents)](https://github.com/crystaljjlee/histsci-119#table-of-contents)</div> 
+[(back to top](https://github.com/crystaljjlee/histsci-119#table-of-contents)
 
 ## Making the StoryMaps
 
@@ -63,6 +65,8 @@ You can read more about how StoryMap works and see newspaper articles that use t
 If you don't want to watch a video, you can use this [excellent written tutorial](https://github.com/NUKnightLab/StoryMapJS/blob/master/GITHUB_HOSTING/GITHUB_HOSTING.md) on how to host your tiled images on GitHub.
 
 [![Intro to Gigapixel video still](https://i.imgur.com/HFwhSZr.png)](https://youtu.be/zfhouzPCYBA)
+
+[(back to top)](https://github.com/crystaljjlee/histsci-119#table-of-contents)
 
 ## Making your website
 
@@ -144,6 +148,6 @@ If you copy and paste that code, you will see this on the page:
 * Tea
 * Milk
 
-For additional examples about how to adjust some more components of your website, you can find a wealth of resources at [w3schools.com](https://www.w3schools.com/).
+For additional examples about how to adjust some more components of your website, you can find a wealth of resources with the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML) and [w3schools](https://www.w3schools.com/).
 
 Happy writing!
