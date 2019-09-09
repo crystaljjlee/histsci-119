@@ -44,13 +44,13 @@ There are many great online resources for finding high quality maps to use in yo
 
 I've made two videos that introduce you to StoryMap.js – one about the utility more generally, and one that focuses on how to create a StoryMap that uses a historical map.
 
-###Intro to StoryMap [CC]
+### Intro to StoryMap [CC]
 
 You can read more about how StoryMap works and view newspaper articles using the tool [here](https://storymap.knightlab.com/#overview). 
 
 [![Intro to StoryMap video still](https://i.imgur.com/mk9vZ8J.png)](https://youtu.be/wZjAc8_VOaY)
 
-###Intro to Gigapixel [CC]
+### Intro to Gigapixel [CC]
 
 If you don't want to watch a video, you can use this [excellent written tutorial](https://github.com/NUKnightLab/StoryMapJS/blob/master/GITHUB_HOSTING/GITHUB_HOSTING.md) on how to host your tiled images on GitHub.
 
