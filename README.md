@@ -40,7 +40,7 @@ You can read more about how StoryMap works and view newspaper articles using the
 
 If you don't want to watch a video, you can use this [excellent written tutorial](https://github.com/NUKnightLab/StoryMapJS/blob/master/GITHUB_HOSTING/GITHUB_HOSTING.md) on how to host your tiled images on GitHub.
 
-[![Intro to Gigapixel video still](https://i.imgur.com/HFwhSZr.png =250x)](https://youtu.be/zfhouzPCYBA)
+[![Intro to Gigapixel video still](https://i.imgur.com/HFwhSZr.png)](https://youtu.be/zfhouzPCYBA)
 
 ## Making your website
 
