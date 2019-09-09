@@ -15,6 +15,7 @@ To discuss the **conceptual components** of your project (especially before you 
   * [Intro to StoryMap](https://github.com/crystaljjlee/histsci-119/#intro-to-storymap-cc)
   * [Intro to Gigapixel](https://github.com/crystaljjlee/histsci-119/#intro-to-gigapixel-cc)
 * [**Making your website**](https://github.com/crystaljjlee/histsci-119/#making-your-website)
+  * [What is GitHub?](https://github.com/crystaljjlee/histsci-119#what-is-github)
   * [Forking the class repository](https://github.com/crystaljjlee/histsci-119/#forking-the-class-repository) 
   * [Activating GitHub pages](https://github.com/crystaljjlee/histsci-119/#activating-github-pages) 
   * [Building the website](https://github.com/crystaljjlee/histsci-119/#building-the-website) 
