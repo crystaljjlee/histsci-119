@@ -50,7 +50,7 @@ Here are a few places to get you started:
 * [John Carter Brown Library Map Collection](https://jcb.lunaimaging.com/luna/servlet/JCBMAPS~1~1)
 * [Osher Map Library](https://oshermaps.org/browse-maps?r=5d76b9b179c3c)
 
-[(back to top](https://github.com/crystaljjlee/histsci-119#table-of-contents)
+[(back to top)](https://github.com/crystaljjlee/histsci-119#table-of-contents)
 
 ## Making the StoryMaps
 
@@ -92,6 +92,8 @@ When you are ready to start making your website to host your StoryMap, navigate 
 
 This repository is filled with skeleton documents that you are free to customize in order to complete your project. The README file is the document you're reading right now. 
 
+[(back to top)](https://github.com/crystaljjlee/histsci-119#table-of-contents)
+
 ### Activating GitHub Pages 
 
 Once you have forked the class repo, you'll need to activate GitHub pages so that you'll be able to take your website online. To do so, go to **settings,** navigate to the **GitHub Pages** section, and **select the master branch as the source.**
@@ -104,6 +106,8 @@ For your project, you will be customizing **index.html**, which provides a templ
 
 ![Screenshot of HISTSCI 119 repository files, which includes an index.html file and CSS folder](<https://i.imgur.com/2ss0cfi.png>)
 
+[(back to top)](https://github.com/crystaljjlee/histsci-119#table-of-contents)
+
 ### Building the website
 
 Once you have forked the HISTSCI 119 repo to your own account and activated GitHub pages, you can get started with editing **index.html**! You can do this directly on the GitHub website – all you need to do is click the index file (which will pull up the source code), and click the pencil icon to edit. (If you prefer to have a little more control, you can also edit the page using a text editor like [Atom](https://atom.io/) and push the file onto GitHub. [Here](https://www.youtube.com/watch?v=6HsZMl-qV5k) is a good video tutorial [CC] on how to use Atom and GitHub together; you can also follow the instructions from the Gigapixel video, where you clone the repository onto your local machine via GitHub Desktop, and open the file using Atom.)
@@ -113,6 +117,8 @@ Once you have forked the HISTSCI 119 repo to your own account and activated GitH
 However, the most important thing is learning how to **embed the StoryMap in the index.html file,** but it is luckily very easy! When you have finished making your map, the "share" menu on StoryMap gives you code that you can copy and paste directly into the index.html page.
 
 ![Image of "share" menu in StoryMaps, which includes code that you can copy and paste into your index.html file](https://i.imgur.com/rAOIjxT.png)
+
+[(back to top)](https://github.com/crystaljjlee/histsci-119#table-of-contents)
 
 ### Formatting your text 
 
