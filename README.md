@@ -46,7 +46,13 @@ When you are ready to start making your website to host your StoryMap, navigate 
 
 !["Watch," "star" and "fork" buttons on GitHub](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
-This repository is filled with skeleton documents that you are free to customize in order to complete your project. The README file is the document you're reading right now. (Don't worry about .DS_Store.) 
+This repository is filled with skeleton documents that you are free to customize in order to complete your project. The README file is the document you're reading right now. (If you see a file called `.DS_Store.`, you can ignore it.)
+
+# Write on section on activating github pages for the repo. 
+- go to settings
+- GitHub Pages section
+- select master branch as source
+url: `https://<username>.github.io/histsci-119`
 
 For your project, you will be customizing **index.html**, which provides a template for the website you will create. The **css** folder *styles* the text in the index file – by providing guidelines for the font color/size, the way that the page is rendered, etc. – and the **images** folder is used to store all the images that you will use for your website. Right now, it contains a **favicon**, which is the little image that you see on the left part of a tab when you're browsing the internet. You can and should customize any part of the template you like (though it certainly isn't necessary). 
 
