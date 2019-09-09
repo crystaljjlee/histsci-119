@@ -50,7 +50,7 @@ Here are a few places to get you started:
 * [John Carter Brown Library Map Collection](https://jcb.lunaimaging.com/luna/servlet/JCBMAPS~1~1)
 * [Osher Map Library](https://oshermaps.org/browse-maps?r=5d76b9b179c3c)
 
-[(back to top)](https://github.com/crystaljjlee/histsci-119#table-of-contents)
+
 
 ## Making the StoryMaps
 
@@ -68,8 +68,6 @@ If you don't want to watch a video, you can use this [excellent written tutorial
 
 [![Intro to Gigapixel video still](https://i.imgur.com/HFwhSZr.png)](https://youtu.be/zfhouzPCYBA)
 
-[(back to top)](https://github.com/crystaljjlee/histsci-119#table-of-contents)
-
 ## Making your website
 
 ### What is GitHub? 
@@ -80,7 +78,7 @@ For this class, you can think of GitHub like file storage similar to Dropbox, wh
 
 #### Why are we using GitHub and not Wordpress, Medium, or some other content management service (CMS)? 
 
-Embedding the StoryMaps is actually a little finicky in Wordpress and other CMS, but it works really well in Medium (the Knight Lab has a collaboration with Medium). Unfortunately, Medium has an [extremely](https://www.niemanlab.org/2019/03/the-long-complicated-and-extremely-frustrating-history-of-medium-2012-present/) [poor](http://studyhall.xyz/blog/2018/6/12/mediums-mess-the-rise-and-fall-of-the-site-that-was-supposed-to-save-journalism) [record](https://twitter.com/HalimahMarcus/status/998585170314788864) when it comes to how they pay writers who make content for them, and they retain the rights to share and redistribute whatever you post there. 
+Embedding the StoryMaps is actually a little finicky in Wordpress and other CMS, but it works really well in Medium (the Knight Lab has a collaboration with Medium). Unfortunately, Medium has an extremely poor record [[1](https://www.niemanlab.org/2019/03/the-long-complicated-and-extremely-frustrating-history-of-medium-2012-present/), [2](http://studyhall.xyz/blog/2018/6/12/mediums-mess-the-rise-and-fall-of-the-site-that-was-supposed-to-save-journalism), [3](https://twitter.com/HalimahMarcus/status/998585170314788864)] when it comes to how they pay writers who make content for them, and they retain the rights to share and redistribute whatever you post there. 
 
 So, as an exercise in data ownership, we're going to be learning how to make your own web pages. GitHub is proprietary, so that comes with its own issues, but the skills you'll develop here are easily transferrable! Hopefully, your final product will be something that is easily maintainable that you can host wherever you choose (on GitHub or otherwise). 
 
@@ -91,8 +89,6 @@ When you are ready to start making your website to host your StoryMap, navigate 
 !["Watch," "star" and "fork" buttons on GitHub](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
 This repository is filled with skeleton documents that you are free to customize in order to complete your project. The README file is the document you're reading right now. 
-
-[(back to top)](https://github.com/crystaljjlee/histsci-119#table-of-contents)
 
 ### Activating GitHub Pages 
 
@@ -118,7 +114,7 @@ However, the most important thing is learning how to **embed the StoryMap in the
 
 ![Image of "share" menu in StoryMaps, which includes code that you can copy and paste into your index.html file](https://i.imgur.com/rAOIjxT.png)
 
-[(back to top)](https://github.com/crystaljjlee/histsci-119#table-of-contents)
+
 
 ### Formatting your text 
 
