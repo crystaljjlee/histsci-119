@@ -2,73 +2,79 @@
 
 As part of this course, you will be using StoryMap.js to chart the movement of people, things, and ideas across the world. This tool will help you create an interactive map that you can then embed onto your own website, which will be hosted using GitHub Pages. (It is also possible to embed the StoryMap directly onto platforms like Medium. However, as we will discuss in class, we are asking you to learn how to host these projects using HTML, CSS, and GitHub so that you can have better control of your data, and so that it's easily maintainable.)
 
-If you need **technical help**, you can attend the [Harvard Digital Scholarship Support Group (DSSG) office hours](<https://dssg.fas.harvard.edu/event/dssg-office-hours-f19-th/>) (if you can't make the office hours, they can assist you remotely or set up a separate appointment). You can also email Jeremy Guillette (jguillette@fas.harvard.edu), the academic technologist for FAS, for additional help. 
+If you need **technical help**, you can attend the [Harvard Digital Scholarship Support Group (DSSG) office hours](<https://dssg.fas.harvard.edu/event/dssg-office-hours-f19-th/>) (if you can't make the office hours, they can assist you remotely or set up a separate appointment). You can also email Jeremy Guillette (jguillette@fas.harvard.edu), the academic technologist for FAS, for additional help.
 
-To discuss the **conceptual components** of your project (especially before you are due to present in class), you can book office hours with the course teaching fellow, Crystal, [here](https://crystallee.youcanbook.me/). 
+To discuss the **conceptual components** of your project (especially before you are due to present in class), you can book office hours with the course teaching fellow, Crystal, [here](https://crystallee.youcanbook.me/).
 
-## Instructions
+## Preliminary Instructions
 
 ### Accounts and applications you'll need
 
-Before you get started with making your StoryMaps, please make sure that you have the following: 
+Before you get started with making your StoryMaps, please make sure that you have the following:
 
 1. You will need a personal or a [Harvard-affiliated](https://www.seas.harvard.edu/sites/default/files/files/Education%20and%20Teaching%20Policies/Google%20Harvard%20account%20setup.pdf) **Google account** to save your changes in StoryMap.js.
 2. You'll also need a **GitHub account.** Instead of signing up on the general site, make sure to get the [Github Student Developer Pack](https://education.github.com/pack) using your Harvard email. This will give you lots great benefits, like more storage space and the ability to have private repositories.
 3. You'll also need to download [**Zoomify Free**](http://www.zoomify.com/free.htm) and [**GitHub Desktop**](https://desktop.github.com/).
 
-### Resources for finding maps 
+### Resources for finding maps
 
-There are many great online resources for finding high quality maps to use in your project (for our purposes, the bigger and more detailed, the better). Here are a few places to get you started: 
+There are many great online resources for finding high quality maps to use in your project (for our purposes, the bigger and more detailed, the better). Here are a few places to get you started:
 
-* [David Rumsey Map Collection](https://www.davidrumsey.com/) 
+* [David Rumsey Map Collection](https://www.davidrumsey.com/)
 * [New York Public Library Map Warper](http://maps.nypl.org/warper/)
 * [Boston Public Library's Leventhal Map and Education Center](https://www.leventhalmap.org/)
-* [Library of Congress Map Collection](https://www.loc.gov/maps) 
-* [French National Library](https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop) (use "map" filter in advanced search) 
+* [Library of Congress Map Collection](https://www.loc.gov/maps)
+* [French National Library](https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop) (use "map" filter in advanced search)
 
-### Making the StoryMaps
+## Making the StoryMaps
 
 I've made two videos that introduce you to StoryMap.js – one about the utility more generally, and one that focuses on how to create a StoryMap that uses a historical map.
 
 #### Intro to StoryMap [CC]
 
-[![Intro to StoryMap video still](https://i.imgur.com/BUvXPFW.png)](https://youtu.be/wZjAc8_VOaY)
+You can read more about how StoryMap works and view newspaper articles using the tool [here](https://storymap.knightlab.com/#overview). 
+
+[![Intro to StoryMap video still](<https://i.imgur.com/mk9vZ8J.png>)](https://youtu.be/wZjAc8_VOaY)
 
 #### Intro to Gigapixel [CC]
 
-[![Intro to Gigapixel video still](https://i.imgur.com/u8qLDHZ.png)](https://youtu.be/zfhouzPCYBA) 
+If you don't want to watch a video, you can use this [excellent written tutorial](https://github.com/NUKnightLab/StoryMapJS/blob/master/GITHUB_HOSTING/GITHUB_HOSTING.md) on how to host your tiled images on GitHub.
 
-If you don't want to watch a video, you can find an excellent written tutorial on how to host your tiled images on GitHub [here](https://github.com/NUKnightLab/StoryMapJS/blob/master/GITHUB_HOSTING/GITHUB_HOSTING.md).
+[![Intro to Gigapixel video still](<https://i.imgur.com/HFwhSZr.png>)](https://youtu.be/zfhouzPCYBA)
 
-### Forking the class repository 
+## Making your website
 
-When you are ready to start making your website to host your StoryMap, navigate to the [HISTSCI 119 repository](https://github.com/crystaljjlee/histsci-119). Once you are there, you'll see three buttons at the top right hand side: you want to **fork** this repository, which means that you're copying all of the files into your own account. 
+### Forking the class repository
+
+When you are ready to start making your website to host your StoryMap, navigate to the [HISTSCI 119 repository](https://github.com/crystaljjlee/histsci-119). Once you are there, you'll see three buttons at the top right hand side: you want to **fork** this repository, which means that you're copying all of the files into your own account.
 
 !["Watch," "star" and "fork" buttons on GitHub](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
-This repository is filled with skeleton documents that you are free to customize in order to complete your project. The README file is the document you're reading right now. (If you see a file called `.DS_Store.`, you can ignore it.)
+This repository is filled with skeleton documents that you are free to customize in order to complete your project. The README file is the document you're reading right now. 
 
-# Write on section on activating github pages for the repo. 
-- go to settings
-- GitHub Pages section
-- select master branch as source
-url: `https://<username>.github.io/histsci-119`
+### Activating GitHub pages 
 
-For your project, you will be customizing **index.html**, which provides a template for the website you will create. The **css** folder *styles* the text in the index file – by providing guidelines for the font color/size, the way that the page is rendered, etc. – and the **images** folder is used to store all the images that you will use for your website. Right now, it contains a **favicon**, which is the little image that you see on the left part of a tab when you're browsing the internet. You can and should customize any part of the template you like (though it certainly isn't necessary). 
+Once you have forked the class repo, you'll need to activate GitHub pages so that you'll be able to take your website online. To do so, go to **settings,** navigate to the **GitHub Pages** section, and **select the master branch as the source.**
+
+![screenshot of GitHub pages settings that shows the master branch as source](https://i.imgur.com/PoAfjuu.png)
+
+After you have selected the **source** for your GitHub Pages, you should see the URL where your site will be published, which should be in this format:  `https://<username>.github.io/histsci-119`. 
+
+For your project, you will be customizing **index.html**, which provides a template for the website you will create. The **css** folder *styles* the text in the index file – by providing guidelines for the font color/size, the way that the page is rendered, etc. – and the **images** folder is used to store all the images that you will use for your website. Right now, it contains a **favicon**, which is the little image that you see on the left part of a tab when you're browsing the internet. You can and should customize any part of the template you like (though it certainly isn't necessary).
 
 ![Screenshot of HISTSCI 119 repository files, which includes an index.html file and CSS folder](<https://i.imgur.com/2ss0cfi.png>)
 
-### Building the website 
+### Building the website
 
-Once you have forked the HISTSCI 119 repo to your own account, you can get started with editing the index.html page! You can do this directly on the GitHub website – all you need to do is click the index file (which will pull up the source code), and click the pencil icon to edit. (If you prefer to have a little more control, you can also edit the page using a text editor like [Atom](https://atom.io/) and push the file onto GitHub.)
+Once you have forked the HISTSCI 119 repo to your own account and activated GitHub pages, you can get started with editing **index.html**! You can do this directly on the GitHub website – all you need to do is click the index file (which will pull up the source code), and click the pencil icon to edit. (If you prefer to have a little more control, you can also edit the page using a text editor like [Atom](https://atom.io/) and push the file onto GitHub. [Here](https://www.youtube.com/watch?v=6HsZMl-qV5k) is a good video tutorial on how to use Atom and GitHub together; you can also follow the instructions from the Gigapixel video, where you clone the repository onto your local machine via GitHub Desktop, and open the file using Atom.)
 
 ![screenshot of GitHub options when you open a file](https://i.imgur.com/9WUG8MT.png)
 
-However, the most important thing is learning how to **embed the StoryMap in the index.html file,** but it is luckily very easy! When you have finished making your map, the "share" menu on StoryMap gives you code that you can copy and paste directly into the index.html page. 
+However, the most important thing is learning how to **embed the StoryMap in the index.html file,** but it is luckily very easy! When you have finished making your map, the "share" menu on StoryMap gives you code that you can copy and paste directly into the index.html page.
 
 ![Image of "share" menu in StoryMaps, which includes code that you can copy and paste into your index.html file](https://i.imgur.com/rAOIjxT.png)
 
-From there, you can format the text you write by inserting headers, paragraphs, and lists. All text in HTML needs to be tagged with element names that are surrounded by angle brackets, e.g.: 
+From there, you can format the text you write by inserting headers, paragraphs, and lists. All text in HTML needs to be tagged with element names that are surrounded by angle brackets, e.g.:
 
 ```html
 <h1> This is a heading. </h1>
@@ -76,14 +82,16 @@ From there, you can format the text you write by inserting headers, paragraphs, 
 <p> This is a paragraph. </p>
 ```
 
-# This is a heading. 
+# This is a heading.
 
-## This is a subheading. 
+## This is a subheading.
 
-This is a paragraph. 
+This is a paragraph.
+
+***
 
 
-Bulleted lists, for example, can be rendered like this: 
+Bulleted lists, for example, can be rendered like this:
 
 ``` html
 <ul>
@@ -93,13 +101,13 @@ Bulleted lists, for example, can be rendered like this:
 </ul>
 ```
 
-If you copy and paste that code, you will see this on the page: 
+If you copy and paste that code, you will see this on the page:
 
 
-* Coffee 
-* Tea 
-* Milk 
+* Coffee
+* Tea
+* Milk
 
-For additional examples about how to adjust some more components of your website, you can find a wealth of resources at [w3schools.com](https://www.w3schools.com/). 
+For additional examples about how to adjust some more components of your website, you can find a wealth of resources at [w3schools.com](https://www.w3schools.com/).
 
 Happy writing!
