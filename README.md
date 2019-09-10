@@ -96,7 +96,7 @@ Once you have forked the class repo, you'll need to activate GitHub pages so tha
 
 ![screenshot of GitHub pages settings that shows the master branch as source](https://i.imgur.com/PoAfjuu.png)
 
-After you have selected the **source** for your GitHub Pages, you should see the URL where your site will be published, which should be in this format:  `https://<username>.github.io/histsci-119`. 
+After you have selected the **source** for your GitHub Pages, you should see the URL where your site will be published, which should be in this format:  `https://<username>.github.io/histsci-119`. You can see the sample that this repo will generate [here](https://crystaljjlee.github.io/histsci-119/). 
 
 For your project, you will be customizing **index.html**, which provides a template for the website you will create. The **css** folder *styles* the text in the index file – by providing guidelines for the font color/size, the way that the page is rendered, etc. – and the **images** folder is used to store all the images that you will use for your website. Right now, it contains a **favicon**, which is the little image that you see on the left part of a tab when you're browsing the internet. You can and should customize any part of the template you like (though it certainly isn't necessary).
 
